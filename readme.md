@@ -1,8 +1,8 @@
-# Brain Tumor Detection
+# Brain Tumor Classification Using MRI data
 
 This project is designed to detect brain tumors using a novel technique titled:
 
-**"An Explainable Dual-Stream Fusion Framework with Cross-Attention for Brain Tumor Classification"**
+**"ViT-CNN: Explainable Dual-Stream Cross-Attention Framework for Brain Tumor Screening on Consumer Devices"**
 
 This framework introduces an innovative approach to brain tumor detection by leveraging a dual-stream architecture that combines Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs). The model incorporates cross-attention mechanisms to enhance feature fusion and improve classification accuracy. Additionally, it emphasizes explainability by utilizing techniques such as Saliency Maps and Local Interpretable Model-agnostic Explanations (LIME) to provide insights into the decision-making process of the model.
 

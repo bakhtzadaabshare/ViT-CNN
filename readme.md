@@ -9,7 +9,7 @@ This framework introduces an innovative approach to brain tumor detection by lev
 ### Authors:
 This work is a collaborative effort by the following researchers:
 - **Bakht Zada**
-- **Chao Tong**
+- **Juhua Pu**
 - **Yar Muhammad**
 - **Asmat Ullah**
 - **Hussein Abulkasim**

@@ -6,16 +6,6 @@ This project is designed to detect brain tumors using a novel technique titled:
 
 This framework introduces an innovative approach to brain tumor detection by leveraging a dual-stream architecture that combines Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs). The model incorporates cross-attention mechanisms to enhance feature fusion and improve classification accuracy. Additionally, it emphasizes explainability by utilizing techniques such as Saliency Maps and Local Interpretable Model-agnostic Explanations (LIME) to provide insights into the decision-making process of the model.
 
-### Authors:
-This work is a collaborative effort by the following researchers:
-- **Bakht Zada**
-- **Juhua Pu**
-- **Yar Muhammad**
-- **Asmat Ullah**
-- **Hussein Abulkasim**
-- **Ahmed Farouk**
-- **Muhammad Adil**
-
 The proposed framework aims to advance the field of medical imaging by providing a robust and interpretable solution for brain tumor classification, making it a valuable tool for healthcare professionals and researchers.
 
 Follow the instructions below to set up and use the project.
